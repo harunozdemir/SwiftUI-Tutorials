@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-
 private let mapViewHeight: CGFloat = 300
 private let circleImageViewBottomPadding: CGFloat = -130
 private let circleImageViewYOffset: CGFloat = -130
