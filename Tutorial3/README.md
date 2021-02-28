@@ -1,8 +1,8 @@
-# SwiftUI-Tutorial2
-Source -> https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation
+# SwiftUI-Tutorial3
+Source -> https://developer.apple.com/tutorials/swiftui/handling-user-input
 
 <p float="left">
-  <img src="https://github.com/harunozdemir/SwiftUI-Tutorials/blob/main/Tutorial2/Landmarks/Images/list.png" width="305">
-  <img src="https://github.com/harunozdemir/SwiftUI-Tutorials/blob/main/Tutorial2/Landmarks/Images/detail1.png" width="320">
-  <img src="https://github.com/harunozdemir/SwiftUI-Tutorials/blob/main/Tutorial2/Landmarks/Images/detail2.png" width="290">
+  <img src="https://github.com/harunozdemir/SwiftUI-Tutorials/blob/main/Tutorial3/Landmarks/Images/all.png" width="305">
+  <img src="https://github.com/harunozdemir/SwiftUI-Tutorials/blob/main/Tutorial3/Landmarks/Images/favorites_only.png" width="320">
+  <img src="https://github.com/harunozdemir/SwiftUI-Tutorials/blob/main/Tutorial3/Landmarks/Images/detail.png" width="290">
 </p>
