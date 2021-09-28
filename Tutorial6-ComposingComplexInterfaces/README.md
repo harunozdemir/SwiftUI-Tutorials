@@ -1,4 +1,4 @@
-# SwiftUI-Tutorial6
+# SwiftUI - Tutorial6 - Composing Complex Interfaces
 Source -> https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces
 
 <p float="left">

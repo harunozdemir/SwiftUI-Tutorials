@@ -1,4 +1,4 @@
-# SwiftUI-Tutorial5
+# SwiftUI - Tutorial5 - Animating Views and Transitions
 Source -> https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions
 
 <p float="left">

@@ -1,4 +1,4 @@
-# SwiftUI-Tutorial2
+# SwiftUI - Tutorial2 - Building Lists and Navigation
 Source -> https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation
 
 <p float="left">

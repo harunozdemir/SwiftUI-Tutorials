@@ -1,4 +1,4 @@
-# SwiftUI-Tutorial3
+# SwiftUI - Tutorial3 - Handling User Input
 Source -> https://developer.apple.com/tutorials/swiftui/handling-user-input
 
 <p float="left">
